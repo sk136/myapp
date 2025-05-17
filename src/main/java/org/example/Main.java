@@ -13,4 +13,7 @@ public class Main {
     void downStream(){
         return ;
     }
+    void testOne(){
+        return ;
+    }
 }
