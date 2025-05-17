@@ -10,4 +10,7 @@ public class Main {
     void upStream(){
         return ;
     }
+    void downStream(){
+        return ;
+    }
 }
