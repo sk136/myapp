@@ -7,4 +7,7 @@ public class Main {
     void print(){
         return ;
     }
+    void upStream(){
+        return ;
+    }
 }
